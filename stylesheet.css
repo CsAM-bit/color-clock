@@ -1,0 +1,16 @@
+
+* { margin: 0; padding: 0; }
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-size: 4.4rem;
+  margin-top: -2.2rem;
+  color: #d1d1e0;
+}
+
+
